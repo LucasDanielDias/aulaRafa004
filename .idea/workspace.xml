@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96b53b80-c3ac-4840-a47f-bb3c48632b72" name="Changes" comment="feat: Faz aula Rafa">
+    <list default="true" id="96b53b80-c3ac-4840-a47f-bb3c48632b72" name="Changes" comment="feat: Faz desafio aula Rafa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Atividade/Cantina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade/Cantina.java" afterDir="false" />
     </list>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680657297163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Faz desafio aula Rafa">
+      <created>1681237372637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681237372637</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Faz aula Rafa" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Faz aula Rafa" />
+    <MESSAGE value="feat: Faz desafio aula Rafa" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Faz desafio aula Rafa" />
   </component>
 </project>

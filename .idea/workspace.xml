@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b53b80-c3ac-4840-a47f-bb3c48632b72" name="Changes" comment="feat: Faz desafio aula Rafa">
+      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Fruta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Sacolao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atividade/Cantina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade/Cantina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cantina">
+  <component name="RunManager" selected="Application.Sacolao">
     <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AulaRafa12.Banco" />
       <module name="AulaRafa12" />
@@ -62,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sacolao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade.Prova.Sacolao" />
+      <module name="AulaRafa12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atividade.Prova.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sacolao" />
         <item itemvalue="Application.Cantina" />
         <item itemvalue="Application.Banco" />
       </list>
@@ -99,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681237372637</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Faz desafio aula Rafa">
+      <created>1681258673259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681258673259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -7,7 +7,7 @@ public class Pedido {
 
     massa Massa = new massa();
     Cliente cliente = new Cliente();
-    List carrinho = new ArrayList();
+    public List carrinho = new ArrayList();
 
     public Double calcularPedido(Double valor, Integer Ac){
         Ac = carrinho.size();
@@ -15,4 +15,5 @@ public class Pedido {
         Double Valortotal = valor + ((Ac-1) * 2);
         return Valortotal;
     }
+
 }

@@ -13,5 +13,5 @@ public class Cliente {
 
     public void setNome(String nome) {
         Nome = nome;
-    }
+    }//criação dos atributos e seus get e sets
 }

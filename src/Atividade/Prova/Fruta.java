@@ -18,4 +18,5 @@ public class Fruta {
     public void setValor(Double valor) {
         this.valor = valor;
     }
+    //criação dos atributos e dos gets e sets
 }

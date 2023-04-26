@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96b53b80-c3ac-4840-a47f-bb3c48632b72" name="Changes" comment="feat: Faz desafio aula Rafa">
-      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Fruta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade/Prova/Sacolao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atividade/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade/Pedido.java" afterDir="false" />
-    </list>
+    <list default="true" id="96b53b80-c3ac-4840-a47f-bb3c48632b72" name="Changes" comment="feat: Faz desafio aula Rafa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681258673259</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: Faz desafio aula Rafa">
+      <created>1682468072875</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682468072875</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -8,5 +8,5 @@ public class Pedido {
         valortotal =valorfruta * quantidade;
         Valorfinal += valortotal;
         return valortotal;
-    }
+    }//Criação de um metodo que cria soma o valor de cada fruta em umaoutra variavel local para o relatorio final
 }

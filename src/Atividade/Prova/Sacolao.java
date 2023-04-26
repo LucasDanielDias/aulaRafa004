@@ -15,7 +15,7 @@ public class Sacolao {
         Cliente cliente = new Cliente("");
         Pedido pedido = new Pedido();
         Fruta fruta = new Fruta();
-
+        //Declaração das variaveis
 
         cliente.Nome = JOptionPane.showInputDialog("Olá qual é seu nome?");
         do {
@@ -24,7 +24,7 @@ public class Sacolao {
                     "2-Laranja\n" +
                     "3-Goiaba\n" +
                     "4-Nada, gostaria de finalizar\n" +
-                    "Por favor digite os numeros"));
+                    "Por favor digite os numeros"));// Criei um modelo de "menu"
             if (1 == opcao){
                     carrinho.add(fruta.nome = "Banana");
                     pedido.valorfruta = Double.valueOf(JOptionPane.showInputDialog("Digite o valor da fruta"));
@@ -43,7 +43,7 @@ public class Sacolao {
                     pedido.quant = Integer.valueOf(JOptionPane.showInputDialog("Quantas vai querer?"));
                     Finally += pedido.fazerPedido(pedido.valorfruta, pedido.quant);
                     Frutas++;
-                }
+                }//criei uma forma de validação para salvar os valores nos Arrays determinados usando recursos como valueof para converter os Strings
         }while (opcao != 4);
               JOptionPane.showMessageDialog(null,"O seu nome é " + cliente.Nome + "e você entro com um pedido de frutas "+
                       Frutas + " e o valor total foi " + pedido.Valorfinal);
